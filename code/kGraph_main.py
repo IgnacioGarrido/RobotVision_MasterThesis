@@ -1,6 +1,6 @@
 # SMRobot project
 # Ignacio Garrido Botella
-# conda environment: SMRobot
+# DEPRECATED
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
