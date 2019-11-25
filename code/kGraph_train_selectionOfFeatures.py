@@ -1,3 +1,7 @@
+# SMRobot project
+# Ignacio Garrido Botella
+# Auxiliar file for testing the extraction of features
+
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
