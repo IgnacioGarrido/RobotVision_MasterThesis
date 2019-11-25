@@ -1,7 +1,8 @@
 #%%
 # SMRobot project
 # Ignacio Garrido Botella
-# conda environment: SMRobot
+# This file contains the needed functions to create the dataset of features.
+
 import cv2
 import numpy as np
 import math
