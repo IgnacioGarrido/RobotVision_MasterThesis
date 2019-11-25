@@ -1,3 +1,7 @@
+# SMRobot project
+# Ignacio Garrido Botella
+# Given the dataset of features this code makes a selection of them and the subsequent analysis (scaling + training).
+
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
