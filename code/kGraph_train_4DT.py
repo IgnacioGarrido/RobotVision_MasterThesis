@@ -1,3 +1,7 @@
+# SMRobot project
+# Ignacio Garrido Botella
+# This code is used when the model of the 4 decision trees (one for each section of the image) is used.
+
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
