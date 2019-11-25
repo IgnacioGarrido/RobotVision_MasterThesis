@@ -1,6 +1,6 @@
 %Ignacio Garrido Botella
 %Code for reading and cleaning the datasets of UmichIndoorCorridor2012
-%Files saved in _ format
+%Files saved in .mat format
 
 %%
 %Variables
