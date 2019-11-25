@@ -1,3 +1,4 @@
+# SMRobot project
 # Ignacio Garrido Botella
 # Code with the needed functions to create the dataset of features of each image.
 import scipy.io
